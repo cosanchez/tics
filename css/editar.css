@@ -1,0 +1,50 @@
+html
+{
+	
+margin: 0 auto;
+	background-repeat: no-repeat;
+	background-size: 100% 670px;
+	background-attachment: fixed;
+}
+.principal .imagen{
+	
+	margin: auto;
+	text-align: center;
+}
+form
+{
+	max-width:  50%;
+	min-width: 300px;
+	
+	margin: auto;
+	margin-top: 50px;
+	padding: 20px;
+	border: 2px solid #eee;
+	background-color: #fff;	
+}
+input
+{
+	margin-top: 20px;
+	padding: 10px;
+	width: 100%;
+	border: none;
+	border-bottom: solid #C8C8C8 .2rem;
+	transition: all .5s;
+	box-sizing:border-box;
+}
+input:focus {
+	border-bottom: solid #F39B53 .3rem;
+}
+input[type="submit"]
+{
+	margin-bottom:0px;
+	background:#1668C4;
+	color:#fff;
+	border:none; 
+}
+input[type="submit"]:hover
+{
+	background:#4A88F4;
+	cursor:pointer;
+	border-radius:1em;
+}

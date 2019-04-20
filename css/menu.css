@@ -1,0 +1,64 @@
+.area{
+	
+	width: 100%;
+	overflow: auto;
+	margin: 0 auto;
+
+}
+.menu li a p{list-style:none; 
+text-decoration: none;
+
+}
+		.menu li a {list-style:none; 
+text-decoration: none;
+
+}
+		
+		.menu li {list-style:none; 
+text-decoration: none;
+}
+.menu {list-style:none; 
+	
+	margin-left: -50px;
+text-decoration: none;
+
+
+}
+			
+
+.menu li{
+
+	float: left; cursor:pointer; 
+	min-width: 400px;
+	height: 90px; 
+	margin:10px; background: #f9f9f9; 
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07); 
+	-moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07); 
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07); -webkit-border-radius: 5px; 
+	border-radius: 5px;
+}
+.menu li a p{ 
+
+	float: left; width: 95px; 
+	height: 85px; padding-top: 15px; font-family: 'WebSymbolsLigaRegular'; 
+	text-align: center; font-size: 50px; color: #3e3e3e; 
+
+}
+.menu li a span p{
+	float: left; font-family: sans-serif; 
+	font-size: 18px; width: 40%; 
+	text-align: left; height: 20px; margin: 0px; padding:	25px 0px 0px 0px!important;
+	
+}
+.menu li:hover {border-color: #f5b300;}
+.menu li:hover a p{color: #f5b300;}
+
+
+.menu li a span h2{
+	float: left; width: 300px; font-size: 11px !important; 
+	color: #5b5b5b; text-align: left; margin-top: 30px !important; 
+	height: 30px; margin: 0px; padding: 0px !important;
+
+
+
+}

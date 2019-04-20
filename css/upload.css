@@ -1,0 +1,45 @@
+.contenedor{
+
+	width: 80%;
+	height: 170px;
+	margin: 0 auto;
+	background-color: rgba(102, 97, 96, 0.2);
+	margin-bottom: 10px;
+	
+
+}
+
+.caja{
+
+	
+	width: 90%;
+	height: 80px;
+	margin: 0 auto;
+
+text-align: center;
+
+}
+
+input[type="file"]{
+	margin: 0 auto; 
+
+
+
+
+
+}
+
+.archivos{
+	
+	
+	margin: 0 auto;
+	width: 80%;
+	overflow: auto;
+
+
+}
+.contenido{
+	
+	width: 290px;
+	margin: 0 auto;
+}
